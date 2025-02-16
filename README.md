@@ -1,4 +1,4 @@
-# Hi there, I'm Aditya Rai! 👋  
+# Hi there, I'm Muthuram! 👋  
 
 🚀 I love coding and exploring new technologies!  
 💻 Currently learning **Java, DSA, and Web Development**.  
