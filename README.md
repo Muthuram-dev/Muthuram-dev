@@ -1,4 +1,3 @@
-# Myself Muthuram!  
 
 
 ## 🔥 My GitHub Stats
