@@ -1,15 +1,5 @@
-# Hi there, I'm Muthuram! 👋  
+# Myself Muthuram!  
 
-🚀 I love coding and exploring new technologies!  
-💻 Currently learning **Java, DSA, and Web Development**.  
-🌱 Open to collaborations on interesting projects!  
-
-## 🚀 Technologies & Tools
-[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)](https://docs.oracle.com/en/java/)
-[![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white)](https://docs.python.org/3/)
 
 ## 🔥 My GitHub Stats
 
